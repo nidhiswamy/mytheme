@@ -8,7 +8,12 @@ After using Obsidian with their default and minimal theme for over 3 years, I de
 - **Minimalist Design**: A clean and simple layout that reduces distractions and enhances focus
 - **Custom Color**: Carefully chosen color palette of a combination of muted dark and forest greens for a soothing visual experience.
 - **Enhanced Readability**: Improved typography and contrast balance to improve readability
-- **Dark & Light Mode**: Seamless switching between light and dark mode of the theme based on preference.
+- **Light Mode**: Seamless light mode theme, currently working on enabling dark mode.
+
+## Screenshots
+<img width="1680" alt="mytheme-light" src="https://github.com/nidhiswamy/mytheme/assets/69186221/3a91e657-b3a2-439f-9fa8-d48a91808fd2">
+
+*Figure 1: A screenshot showcasing my forest theme in action on an Obsidian Canvas*
 
 ## License
 
