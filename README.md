@@ -18,6 +18,6 @@ MyTheme is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 - Created by [Nidhi Swamy](https://www.nidhiswamy.com)
 - Thanks to the Obsidian community for their continuous support and inspiration.
-
-Happy Noting!
-Nidhi Swamy
+---
+*Happy Noting!\
+Nidhi Swamy*
