@@ -12,7 +12,7 @@ After using Obsidian with their default and minimal theme for over 3 years, I de
 
 ## License
 
-MyTheme is licensed under the MIT License. See the [LICENSE]() file for more details.
+MyTheme is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
